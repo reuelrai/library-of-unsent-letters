@@ -1,7 +1,9 @@
 export default function Dashboard() {
     return (
         <>
-        <div className="flex justify-center items-center h-screen">This is dashboard page.</div>
+        <div className="flex justify-center items-center h-screen">This is dashboard page.
+            <h1>Nothing to commit here.</h1>
+        </div>
         </>
     );
 }
