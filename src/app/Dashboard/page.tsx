@@ -5,6 +5,7 @@ export default function Dashboard() {
                 <h1>This is dashboard page.</h1>
                 
                 <h3>This page is under construction.</h3>
+                <h1>Still on construction.</h1>
             </div>
         </>
     );
